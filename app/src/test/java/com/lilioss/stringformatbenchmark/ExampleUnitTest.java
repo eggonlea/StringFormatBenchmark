@@ -1,4 +1,4 @@
-package com.example.stringformatbenchmark;
+package com.lilioss.stringformatbenchmark;
 
 import org.junit.Test;
 

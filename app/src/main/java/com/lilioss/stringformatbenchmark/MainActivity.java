@@ -1,4 +1,4 @@
-package com.example.stringformatbenchmark;
+package com.lilioss.stringformatbenchmark;
 
 import android.util.Log;
 import android.view.WindowManager;
